@@ -1,0 +1,109 @@
+---
+---
+
+@font-face {
+    font-family: "Source Han Serif KR VF";
+    src: url("/assets/SourceHanSerif/SourceHanSerifKR-VF.ttf.woff2") format(woff2) tech(variations);
+    font-weight: 1 999;
+}
+
+$base-font-family: "Lora", "Source Han Serif KR VF", serif;
+$base-font-size:   24px;
+
+@import "minima";
+@import url("https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+h1, h2, h3 {
+    font-weight: 500;
+}
+
+a {
+    color: inherit !important;
+    transition: color 0.1s;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #777 !important;
+}
+
+code {
+    font-family: inherit !important;
+    font-size: inherit !important;
+    color: inherit !important;
+    font-style: italic !important;
+    border: none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+mark {
+    background-color: transparent !important; /* remove highlight background */
+    font-variant: small-caps !important; /* force small-caps */
+    text-transform: lowercase !important;
+    padding: 0 !important;
+}
+
+hr {
+    border: none;
+}
+
+hr::before {
+    content: "⁂";
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1.25em;
+}
+
+.post-content {
+    position: relative;
+}
+
+.sidenote {
+    position: absolute;
+    width: 300px;
+    font-size: 0.8em;
+    transition: font-weight 0.1s, transform 0.1s;
+}
+
+.sidenote.left {
+    right: 100%;
+    margin-right: 15px;
+}
+
+.sidenote.right {
+    left: 100%;
+    margin-left: 15px;
+}
+
+.sidenote.highlight {
+    font-weight: 600;
+    transform: translateY(-10px);
+}
+
+.footnote-ref {
+    color: #828282 !important;
+}
+
+.footnote-ref:hover {
+    color: #bbb !important;
+}
+
+.footnote-ref sup::before {
+    content: "[";
+}
+
+.footnote-ref sup::after {
+    content: "]";
+}
+
+.references > p {
+    margin: 0;
+    padding-left: 3em;
+    text-indent: -3em;
+}
+
+.references {
+    margin-bottom: 15px;
+}
