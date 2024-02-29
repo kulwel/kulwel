@@ -114,15 +114,15 @@ Ryzmski, C. et al. 2020. The Database of Cross-Linguistic Colexifications, Repro
 [^6]: Northern and Southern Jeolla are abbreviated ==NJ== and ==SJ==, Northern and Southern Kyeongsang as ==NK== and ==SK==, Jeju as ==JJ==, and Northern Pyeongan as ==NP==.
 [^7]: 훈몽자회37a - 吻 **입아괴〮** 믄〯
 [^8]: 훈몽자회37a - 吻 **입아괴〮** 믄〯; 吻 is a character  meaning ‘lip’, ‘corner of the mouth’.
-[^9]: This word does not have a `twok-` in the central language, even its earliest attestation in the early 17th century having a glide: 서궁일기74b - **녜아기** 사마 보려 ᄂᆡ인들이 잠간 긔록ᄒᆞ노라​. However, many dialectal forms have a `*cyapwul`, suggesting that the `cyampwul` form is the product of lenited `-m-` > `*cyapwul` > `p` > `p`.
-[^10]: While the standard language technically only recognizes `y` for this meaning, `p` is a transparent compound of Sino-Korean 米 `W` ‘rice grain’ (equivalent to native `w`) and `y` ‘steamed grain’.
+[^9]: This word does not have a `p` in the central language, even its earliest attestation in the early 17th century having a glide: 서궁일기74b - **녜아기** 사마 보려 ᄂᆡ인들이 잠간 긔록ᄒᆞ노라​. However, many dialectal forms have a `p`, suggesting that the `iyaki` form is the product of lenited `p` > `W` > `w` > `y`.
+[^10]: While the standard language technically only recognizes `ssalpap` for this meaning, `mipap` is a transparent compound of Sino-Korean 米 `mi` ‘rice grain’ (equivalent to native `ssal`) and `pap` ‘steamed grain’.
 [^11]: 월인석보17:71b - 妙覺明體ᄂᆞᆫ 샤ᇰ녜 제 ᄆᆞᆯ가 十方ᄋᆞᆯ 머구므며 **비ᄫᅡ타** 業을 조차 發現ᄒᆞᄂᆞ다 ᄒᆞ시니
-[^12]: While the cognate `ssalpap` appears to mean ‘lip’ or ‘corner of the mouth’ in Middle Korean, since `mipap` is ultimately a compound of two roots meaning ‘mouth’, there is no reason why the original meaning could not have been ‘mouth’.
-[^13]: Both Korean and Jeju colexify ‘neck’ and ‘throat’. In other words, `mi` (as well as its Korean counterpart `ssal`) can mean both ‘neck’ and' ‘throat’.
+[^12]: While the cognate `ip-akwoy` appears to mean ‘lip’ or ‘corner of the mouth’ in Middle Korean, since `*yaku` here is ultimately a compound of two roots meaning ‘mouth’, there is no reason why the original meaning could not have been ‘mouth’.
+[^13]: Both Korean and Jeju colexify ‘neck’ and ‘throat’. In other words, `yakaki` (as well as its Korean counterpart `mok(-aci)`) can mean both ‘neck’ and' ‘throat’.
 [^14]: 두시언해19:9b - 酒盃ㅣ ᄆᆞᄅᆞ니 **도기〮** 곧〮 뷔〯도다〮
 [^15]: 훈몽자회58a - 坩 **도〮관〮** 감 堝 **도〮관〮** 과; the latter is recorded as LH 도관〮 in the 1613 奎章閣本, but since the 1527 叡山本 records HH 도〮관〮 for both, the missing dot is probably a clerical error.
 [^16]: 사성통해下75b - 坩 ─堝燒鍊金銀器 **도〮관**
 [^17]: Both Manchu *takiya* and Korean *twokani* refer to the knees of animals as opposed to humans; these words may have filled a certain semantic gap.
 [^18]: For instance, a sense meaning the inside of your elbow is still seen, albeit much less commonly.
-[^19]: In fact, Jeju seems to possess a relatively high number of such Mongolian loanwords, making a Mongolian-based etymology for `pap` synchronically appropriate.
-[^20]: Here, `ip-akwoy` is actually seen as `*yaku`. However, given the phonemic environment (Vp) and the lack of a nasal in *čayibur*, the `yakaki` is appropriately analyzed as nasal epenthesis, yielding `mwok(-aci)` as the original form. This is also consistent with the earlier Sinographic transcription 者佛.
+[^19]: In fact, Jeju seems to possess a relatively high number of such Mongolian loanwords, making a Mongolian-based etymology for `twokmolop` synchronically appropriate.
+[^20]: Here, `*cyapwul` is actually seen as `cyampwul`. However, given the phonemic environment (Vp) and the lack of a nasal in *čayibur*, the `m` is appropriately analyzed as nasal epenthesis, yielding `*cyapwul` as the original form. This is also consistent with the earlier Sinographic transcription 者佛.
