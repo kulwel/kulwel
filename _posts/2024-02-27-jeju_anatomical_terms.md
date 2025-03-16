@@ -13,26 +13,26 @@ The Jeju word `yakaki` ‘neck’ occurs in variation with `yakayki` and `yakaci
 
 For this, I would like examine two Korean[^1] roots for ‘mouth’, `ip` and `*aku`. The former is not only found intact in Modern Korean but also thoroughly attested in Late Middle[^2][^3] and even Early Middle[^4] Korean. On the other hand, the latter is more speculative; given the standard Modern Korean `akali` ‘mouth’, I propose a comparative examination of various dialectal (and historical) forms as follows[^5].
 
-1. `akwu` (==NK[^6]==), `akwu-twui` (==NK==), `akwu-tingi` (==NK==), `akwu-twong` (==NJ, SJ, NK==), `akwu-chang` (==SJ, NK==), `akwu-ttak` (==SJ==), `akwu-tayngi` (==NJ==)
+1. `akwu` (==NK[^6]==), `akwu-thwui` (==NK==), `akwu-thingi` (==NK==), `akwu-thwong` (==NJ, SJ, NK==), `akwu-chang` (==SJ, NK==), `akwu-ttak` (==SJ==), `akwu-thayngi` (==NJ==)
     1. `akwuy` (==JJ==), `ip-akwoy`[^7]
     2. `aku-ttak` (==SJ==)
 2. `akali` (==SJ, JJ, NP, NK==), `akwuli` (==SJ, JJ==)
-    1. `akal-twong` (==NK==), `akwul-ci` (==NJ==)
+    1. `akal-thwong` (==NK==), `akwul-ci` (==NJ==)
 3. `akwuci` (==SK, NJ, SJ==), `akwoci` (==SJ==)
     1. `akamci` (==SK==)
-4. `ak-twungi` (==NP==), `ak-pal` (==SJ==), `ak-pali` (==NK==), `ak-cayki` (==NP==)
+4. `ak-thwungi` (==NP==), `ak-pal` (==SJ==), `ak-pali` (==NK==), `ak-cayki` (==NP==)
 
-Group 1 forms all appear to suggest a root `akwu`. Group 1.1’s *akwuy*, then, would best be analyzed as `akwu` + `-i`, with `akwoy` being its ablaut form. Group 1.2’s `aku` is similar to Group 1 expect it lacks the rounding on the vowel; more on this later. 
+The above list shows a grouping of the different word forms based on shared characteristics. Group 1 forms all appear to suggest a root `akwu`. Group 1.1’s *akwuy*, then, would best be analyzed as `akwu` + `-i`, with `akwoy` being its ablaut form. Group 1.2’s `aku` is similar to Group 1 except it lacks the rounding on the vowel; more on this later. 
 
-Groups 2 and 3 forms appear to be transparent derivations from a root `*ak(V)` with the suffixes `-Vli` and `-Vci`, respectively. Group 2.1 forms appear additionally to have undergone elision of the final `-i` and another step of compounding with suffixes `-twong` and `-ci`. Group 3.1’s `akamci` would be best understood as a form of `*akaci` with nasal epenthesis.
+Groups 2 and 3 forms appear to be transparent derivations from a root `*ak(V)` with the suffixes `-Vli` and `-Vci`, respectively. Group 2.1 forms appear additionally to have undergone elision of the final `-i` and another step of compounding with suffixes `-thwong` and `-ci`. Group 3.1’s `akamci` would be best understood as a form of `*akaci` with nasal epenthesis.
 
 Finally, Group 4 forms suggest a root `*ak`.
 
 From this, we can see two things. First, `akali` and all of its alternate forms examined above can be explained through a common root `*akV`. Second, this common root `*akV` has a propensity to become `*ak-` in compounds, not only before vowels but also before consonants. This tendency makes it less likely that the original form would have had a labialized vowel as in `akwu~*akwo`. It stands to reason, then, that the original form was most likely `*aku`.
 
-With that, I further propose that `*yak` from above is a compound of `ip` and `*aku`. In Middle Korean, we see a hypothetical cognate `ip-akwoy`, meaning ‘lip’[^8]. We have reason to suspect that `p`-lenition was a productive change within Jeju, with words like `iyaki` ‘conversation’[^9], `mipap` ‘cooked rice’[^10], and (compounds containing) `path` ‘field’ having `W` > `w` exclusively in Jeju: `iwak` ‘conversation’, `miwap` ‘rice’, and `was` ‘field’. Applying this to `*ip-aku` yields a hypothetical reflex `*iWaku~iwaku`.
+With that, I further propose that `*yak` from above is a compound of `ip` and `*aku`. In Middle Korean, we see a hypothetical cognate `ip-akwoy`, meaning ‘lip’[^8]. We have reason to suspect that `p`-lenition was a productive change within Jeju, with words like `iyaki` ‘conversation’[^9], `mipap` ‘cooked rice’[^10], and `-path` ‘field’ having `W` > `w` exclusively in Jeju: `iwak` ‘conversation’, `miwap` ‘rice’, and `was` ‘-field’. Applying this to `*ip-aku` yields a hypothetical reflex `*iWaku~iwaku`.
 
-Next, we consider `*iWa~iwa` > `*ya`. The elision (or assimilation) of `w` in between `i` and `a` does not seem particularly far-fetched, with examples such as `iyaki` ‘conversation’ above and Northern Pyeongan `piat-` ‘to spit’ (compare Middle Korean `piWath-`[^11]). Such a change yields `*yaku`; we have already established above that the final `u` vowel in `*aku` has a propensity to disappear in compounds, finally yielding the alternate `*yak-` as in `yakaki`.
+Next, we consider `*iWa~iwa` > `*ya`. The elision (or assimilation) of `w` in between `i` and `a` does not seem particularly far-fetched, with examples such as Northern Pyeongan `piat-` ‘to spit’ (consider Middle Korean `piWath-`[^11] > `*piwat(h)-` > `piat(h)-`) and `iyaki` ‘conversation’ above. Such a change yields `*yaku`; we have already established above that the final `u` vowel in `*aku` has a propensity to be elided or absorbed in compounds, finally yielding the alternate `*yak-` as in `yakaki`.
 
 Admittedly, ‘lip’ and ‘neck’ is not a common polysemy. However, considering broader senses of each root, ‘mouth’[^12] and ‘throat’[^13], we see that the colexification of this semantic pair is indeed attested.
 
@@ -40,36 +40,42 @@ Thus, I put forth the derivational chain Korean *ip* ‘mouth’ + `*aku` ‘mou
 
 ## `twokmolop`
 
-Looking at this Jeju word for ‘knee’ and its variants, three things immediately stand out:
+Next, looking at this Jeju word for ‘knee’ and its variants, three things immediately stand out:
 1. `-molop` reflects Korean `mwuluph` ‘knee’ (< Middle Korean `mwulwuph` ‘knee’)
 2. There are many variant forms, including `twokmeli`, `twok-mwulep`, and `twok`
 3. There are compounds `twokmolop-kkwang`, `tokmoli-kkwang`, and `toksayki-kkwang` (and several other variations thereof), all meaning ‘kneecap’
 
-From points 1 and 2, it is clear that `twok-molop` is a compound of `twok` and `molop`, both components independently meaning ‘knee’. Regarding point 3, the suffix `-kkwang` commonly appears in words for bones; specifically in `toksayki-kkwang`, the component `sayki` is also found in words such as `kwol-paksayki` ‘skull’, further supporting the idea that `twok` is an independent root meaning ‘knee’.
+From points 1 and 2, it is clear that `twok-molop` is a compound of `twok` and `molop`, both components independently meaning ‘knee’. Regarding point 3, the suffix `-kkwang` commonly appears in words for bones; specifically regarding `toksayki-kkwang`, the component `sayki` is also found in words such as `kwol-paksayki` ‘skull’, further supporting the idea that `twok` is an independent root meaning ‘knee’.
 
-The alternate `o` vowel in `tokmoli-` and `toksayki-` are somewhat curious. However, given that these are the only two instances of it, it is probably best analyzed as the product of a local sound change (perhaps due to assimilation or lenition) from the original `twok` form.
+The alternate `o` vowel in `tokmoli-` and `toksayki-` are somewhat curious. However, given that these are the only two instances of it, it is probably best analyzed as the product of a local sound change (perhaps due to assimilation or neutralization) from the original `twok` form.
 
 Thence, we can evaluate potential cognates. Most notably, Korean has `twokani` ‘kneecap, (animal’s) knee’, which seems like an obvious candidate; however, the derivation is unclear. While one could reasonably hypothesize `*twok` + `*-ani`, the `*-ani` suffix is completely elusive, and there is a striking lack of dialectal forms all across the peninsula, making evaluation more difficult.
 
-Nonetheless, there are still a couple of things we can consider within Korean: MoK features a homonym `twokani` ‘crucible’ (< MK `twok(w)an` ‘crucible’). Independently, some Northern Jeolla dialects feature `twoka`~`twokani`~`twokaci` ‘large clay pot’ (c.f. standard `twok` ‘large clay pot’). These seem like potential doublets, and if Northern Jeolla `twokani` ‘large clay pot’ is indeed from `twok`, this would appear to imply the existence of a suffix `*-ani`. Unfortunately, the low tone of MK `twòk`[^14] (> MoK `twok`) does not match the high tone in MK `twókwán`[^15]~`twókwàn`[^16], making the connection less plausible.
+Nonetheless, there are still a couple of things we can consider within Korean: Some Northern Jeolla dialects feature `twoka`~`twokani`~`twokaci` ‘large clay pot’, which appear to be doublets of standard `twok` ‘large clay pot’. If Northern Jeolla `twokani` ‘large clay pot’ is indeed from `twok`, this would appear to imply the existence of a suffix `*-ani`.
+
+Further noting that Modern Korean features another homonym `twokani` ‘crucible’ (< MK `twok(w)an` ‘crucible’), we could begin to hypothesize that `twokani` ‘crucible’ is similarly a derivation via `-ani` and is thus also from Middle Korean `twok`. Unfortunately, the low tone of MK `twòk`[^14] (> MoK `twok`) does not match the high tone in MK `twókwán`[^15]~`twókwàn`[^16], making the connection less plausible. Moreover, even if there were a connection, neither `twokani` ‘large clay pot’ nor `twokani` ‘crucible’ seem to possess a semantic link to our hypothesized `*twok` ‘knee’, thus providing little insight.
 
 Now looking outside of Korean, a tempting target is Manchu *takiya* ‘animal’s knee’ and *takitu* ‘leather knee pad’. We can reasonably reconstruct a root *\*taki-* meaning knee, noting also that the usage of *takiya*[^17] mirrors that of Korean `twokani`. This form is potentially related to Mongolian *takim* ‘back of the knee’, which in turn I posit to be a doublet of *takiyi-* ‘to bend’; considering ‘back of the knee’ and ‘to bend’ to come from the same root *\*taqi-*, we would expect the original meaning of this root to be ‘to bend’, and for the ‘knee’ sense to be a later development that was borrowed into Manchu.
 
-This is a close semantic parallel to Korean `wokum` ‘back of the knee (human)’, which originally meant bent parts of one’s body[^18] but is now almost exclusively to mean the back of the knee. Further, while `twokani`’s poorly attested history hinders diachronic analyses, `twokani` and `wokum` are often seen as semantic counterparts in modern usage, the former being used for people and the latter for animals. However, we again find contrary phonological evidence; even overlooking the final `-i`, the expected Middle Korean reflex of a hypothetical Middle Mongolian *\*taq-* would be `*tak`~`thak`~`takh`~`thakh-`, not `twok-`. This makes the connection less plausible.
+This is a close semantic parallel to Korean `wokum` ‘back of the knee (human)’, which originally meant bent parts of one’s body[^18] but is now almost exclusively used to mean the back of the knee. Further, while `twokani`’s poorly attested history hinders diachronic analyses, `twokani` and `wokum` are often seen as semantic counterparts in modern usage, the former being used for people and the latter for animals. However, we again find contrary phonological evidence; even overlooking the final `-i`, the expected Middle Korean reflex of a hypothetical Middle Mongolian *\*taq-* would be `*tak`~`thak`~`takh`~`thakh-`, not `twok-`. This makes the connection less plausible.
 
 ***
 
 Finally, we will investigate Mongolian <code class="ignore">toyiɣ</code> ‘kneecap’. Unlike <code class="ignore">taqi-</code>, *toyiɣ* is not only a semantic match but—seemingly—also a phonological one. While it is difficult to ascertain the precise phonological processes surrounding Middle Mongolian loanage into Korean, we can comparatively study other apparent loans to evaluate whether a Mongolian *toyiɣ* could have resulted in a Middle Korean reflex `*twok`. 
 
-Middle Mongolian *t-* is often associated with Korean `th-` as in `them(w)ul` < *temür*, `thwikwon` < *toyiɣun*, `tharak` < *taraɣ*, and `thyellik` < *terlig*. However, there are instances of Korean `t-` as well, such as `takal` < *taqa* and `twokwom` < *toqom*. The latter of the two, `twokwom` < *toqom*, is especially promising, since it is a Jeju dialectal form[^19]. It also brings us to our second point, which is `wo` < *o*. This correspondence is attested in numerous other borrowings as well, including `kwotwoli` < *godoli*, `kwongkwol` < *qongɣor*, `nwoyen` < *noyan*, and many more. Skipping ahead a bit, our third point—the loanage of final *-ɣ* > `-k`—is also attested: `tharak` < *taraɣ*, `aktay` < *aɣta*, `swulwuk` < *sürüɣ*, and `aymak` < *aimaɣ*. This leaves us with just the *-yi-* to consider.
+Middle Mongolian *t-* is often associated with Korean `th-` as in `them(w)ul` < *temür*, `thwikwon` < *toyiɣun*, `tharak` < *taraɣ*, and `thyellik` < *terlig*. However, there are instances of Korean `t-` as well, such as `takal` < *taqa* and `twokwom` < *toqom*. The latter of the two, `twokwom` < *toqom*, is especially promising, since it is a Jeju dialectal form[^19]. It also brings us to our second point, which is `wo` < *o*: This correspondence is attested in numerous other borrowings as well, including `kwotwoli` < *godoli*, `kwongkwol` < *qongɣor*, `nwoyen` < *noyan*, and many more. Skipping ahead a bit, our third point—the loanage of final *-ɣ* > `-k`—is also attested: `tharak` < *taraɣ*, `aktay` < *aɣta*, `swulwuk` < *sürüɣ*, and `aymak` < *aimaɣ*. This leaves us with just the *-yi-* to consider.
 
-The *-yi-* throws us in a bit of a loop. For our proposed correspondence `*twok` < *toyiɣ*, we would need *-yi-* to map to `∅`. I was only able to verify two examples of Mongolian borrowings containing *-yi-*: `thwikwon` < *toyiɣun* and `*cyapwul`[^20] < *čayibur*. In the former, *-oyi-* clearly maps to the diphthong `-wi-`, but in the former, *-ayi-* seems to map to `-a-`. This is by no means conclusive evidence that a *yi* > `∅` loanage occurred; there are too many variables in the phonological environment, namely the already-existing `y-` glide in `cy` < *č* as well as the lack of a checked coda. Nevertheless, I posit that the deletion of `-yi-` either during or following the hypothetical borrowing of *toyiɣ* is not implausible.
+The *-yi-* throws us in a bit of a loop. For our proposed correspondence `*twok` < *toyiɣ*, we would need *-yi-* to map to `∅`. I was only able to verify two examples of Mongolian borrowings containing *-yi-*: `thwikwon` < *toyiɣun* and `*cyapwul`[^20] < *čayibur*. In the former, *-oyi-* clearly maps to the diphthong `-wi-`, but in the latter, *-ayi-* seems to map to `-a-`[^21]. This is by no means conclusive evidence that a *yi* > `∅` loanage occurred; there are too many variables in the phonological environment, namely the already existent `y-` glide in `cy` as well as the lack of a checked coda. Nevertheless, I posit that the deletion of `-yi-` either during or following the hypothetical borrowing of *toyiɣ* is not implausible.
 
 With this, I put forth the derivational chain Middle Mongolian *toyiɣ* ‘kneecap’ > Middle Korean `*twok` ‘kneecap’ +  `*molop` ‘knee’ > * as the etymology of Jeju `twokmolop` ‘knee’.
 
 ## Afterword
 
-It must be stressed that a lot of the theorization thus far lacks a solid evidential basis. This is somewhat of a natural consequence of working with such little data; regardless, it is my wish that the theorization and methodologies presented thus far provide a basis for future research. At the very least, I enjoyed the creative exercise, and I hope you did, too.
+It must be stressed that a lot of the theorization thus far lacks a solid evidential basis. This is somewhat of a natural consequence of working with such little data; regardless, it is my wish that the methodologies and ideas hitherto presented provide a basis for future research. At the least, I enjoyed the creative exercise. I hope you did, too.
+
+***
+
+Special thanks to the [East Asian Linguistics](https://discord.gg/A36Y6mSrTr)  Discord server for inspiration and support. Please feel free to drop in and say hi :-)
 
 ## References
 
@@ -126,3 +132,4 @@ Ryzmski, C. et al. 2020. The Database of Cross-Linguistic Colexifications, Repro
 [^18]: For instance, a sense meaning the inside of your elbow is still seen, albeit much less commonly.
 [^19]: In fact, Jeju seems to possess a relatively high number of such Mongolian loanwords, making a Mongolian-based etymology for `twokmolop` synchronically appropriate.
 [^20]: Here, `*cyapwul` is actually seen as `cyampwul`. However, given the phonemic environment (Vp) and the lack of a nasal in *čayibur*, the `m` is appropriately analyzed as nasal epenthesis, yielding `*cyapwul` as the original form. This is also consistent with the earlier Sinographic transcription 者佛.
+[^21]: The glide in the `cy-` onset reflects Middle Mongolian *č-*.

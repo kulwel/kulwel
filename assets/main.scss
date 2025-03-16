@@ -39,9 +39,25 @@ code {
 
 mark {
     background-color: transparent !important; /* remove highlight background */
+    padding: 0 !important;
+}
+
+mark:lang("en") {
     font-variant: small-caps !important; /* force small-caps */
     text-transform: lowercase !important;
-    padding: 0 !important;
+}
+
+mark:lang("ko") {
+    text-decoration: underline !important;
+}
+
+blockquote {
+    color: inherit;
+    font-style: inherit;
+    font-size: inherit;
+    border: none;
+    letter-spacing: inherit;
+    padding-left: 32px;
 }
 
 hr {
