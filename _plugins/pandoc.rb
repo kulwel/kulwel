@@ -5,7 +5,7 @@ class Jekyll::Converters::Markdown::Pandoc
 
     def convert(content)
         if ENV["CF_PAGES"]
-            pandoc_bin = File.expand_path("./pandoc")
+            pandoc_bin = File.expand_path("./_vendor/pandoc")
             PandocRuby.pandoc_path = pandoc_bin
             puts "Using bundled Pandoc binary: #{pandoc_bin}"
         end
