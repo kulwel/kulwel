@@ -22,6 +22,8 @@ title: 文乙月
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
+author: 月乙兎瓊
+
 # Build settings
 theme: minima
 plugins:
@@ -33,7 +35,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-permalink: /posts/:title
+permalink: /posts/:title.html
 markdown: Pandoc
 
 # Exclude from processing.

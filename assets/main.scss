@@ -8,7 +8,7 @@
 }
 
 $base-font-family: "Lora", "Source Han Serif KR VF", serif;
-$base-font-size:   24px;
+$base-font-size:   21px;
 
 @import "minima";
 @import url("https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
@@ -17,14 +17,22 @@ h1, h2, h3 {
     font-weight: 500;
 }
 
-a {
-    color: inherit !important;
-    transition: color 0.1s;
+.post-title {
+    line-height: 1.1;
 }
 
-a:hover {
-    text-decoration: none;
-    color: #777 !important;
+a, a:visited {
+    color: inherit !important;
+    transition: color 0.1s;
+    
+    &:hover {
+        text-decoration: none;
+        color: #777 !important;
+    }
+
+    article &:not(.footnote-ref):not(.footnote-back) {
+        text-decoration: wavy underline;
+    }
 }
 
 code {
@@ -40,15 +48,16 @@ code {
 mark {
     background-color: transparent !important; /* remove highlight background */
     padding: 0 !important;
-}
 
-mark:lang("en") {
-    font-variant: small-caps !important; /* force small-caps */
-    text-transform: lowercase !important;
-}
+    &:lang("en") {
+        font-variant: small-caps !important; /* force small-caps */
+        text-transform: lowercase !important;
+    }
 
-mark:lang("ko") {
-    text-decoration: underline !important;
+    &:lang("ko") {
+        text-decoration: underline !important;
+        text-underline-offset: 0.2em;
+    }
 }
 
 blockquote {
@@ -62,14 +71,40 @@ blockquote {
 
 hr {
     border: none;
+
+    &::before {
+        content: "⁂";
+        display: block;
+        text-align: center;
+        margin-bottom: 15px;
+        font-size: 1.25em;
+    }
 }
 
-hr::before {
-    content: "⁂";
-    display: block;
-    text-align: center;
-    margin-bottom: 15px;
-    font-size: 1.25em;
+.tone {
+    position: relative;
+    
+    .tone-mark {
+        width: 0;
+        opacity: 0;
+        display: inline-block;
+    }
+
+    &::before {
+        position: absolute;
+        right: 0;
+        bottom: 0.55em;
+        width: 0.95em;
+        text-align: center;
+    }
+
+    &[data-tone="1"]::before {
+        content: "·";
+    }
+
+    &[data-tone="2"]::before {
+        content: "· ·";
+    }
 }
 
 .post-content {
@@ -81,45 +116,45 @@ hr::before {
     width: 300px;
     font-size: 0.8em;
     transition: font-weight 0.1s, transform 0.1s;
-}
 
-.sidenote.left {
-    right: 100%;
-    margin-right: 15px;
-}
-
-.sidenote.right {
-    left: 100%;
-    margin-left: 15px;
-}
-
-.sidenote.highlight {
-    font-weight: 600;
-    transform: translateY(-10px);
+    &.left {
+        right: 100%;
+        margin-right: 15px;
+    }
+    
+    &.right {
+        left: 100%;
+        margin-left: 15px;
+    }
+    
+    &.highlight {
+        font-weight: 600;
+        transform: translateY(-10px);
+    }
 }
 
 .footnote-ref {
     color: #828282 !important;
-}
 
-.footnote-ref:hover {
-    color: #bbb !important;
-}
+    &:hover {
+        color: #bbb !important;
+    }
 
-.footnote-ref sup::before {
-    content: "[";
-}
+    sup::before {
+        content: "[";
+    }
 
-.footnote-ref sup::after {
-    content: "]";
-}
-
-.references > p {
-    margin: 0;
-    padding-left: 3em;
-    text-indent: -3em;
+    sup::after {
+        content: "]";
+    }
 }
 
 .references {
     margin-bottom: 15px;
+
+    & > p {
+        margin: 0;
+        padding-left: 3em;
+        text-indent: -3em;
+    }
 }
