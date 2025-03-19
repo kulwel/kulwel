@@ -9,10 +9,10 @@ permalink: /about/
 
 This blog is a place for sketches on Korean historical linguistics, among other things. Thoughts may not be complete at time of initial posting. Any ramblings or errors will be continuously, albeit seldom, revised.
 
-Either Unicode-encoded Hangul or **Yale Romanization**[^1] is used to write Korean words. We deviate from Sejong in two minor ways: ᅟᆢ, ᅟᆖ is used for `yo`, `yu` instead of ᅟᆝ, ᅟᆜ unless quoting verbatim. Tone dots are placed above, instead of to the left of, Hangul blocks[^2]. We deviate from Martin in three minor ways: all Koreanic forms postdating Old Korean are rendered using Middle Korean Yale conventions; that is, Modern Korean 요리 is `ywoli`, not `yoli`, and Jeju ᄒᆞᆫ저 is `honce`. Tones are marked as necessary using diacritics: `à` (low), `á` (high), `ǎ` (rising), `a` (omitted or determined via pitch assignment rules). Readings of Sinographs are not capitalized unless it would be contextually beneficial for clarity.
+Either **Yale Romanization**[^1] or Unicode-encoded Hangul is used to write Korean words. I deviate from Martin (1992) in three minor ways: all Koreanic forms postdating Old Korean are rendered using Middle Korean Yale conventions; that is, Modern Korean 요리 is `ywoli`, not `yoli`, and Jeju ᄒᆞᆫ저 is `honce`. Tones are marked as necessary using diacritics: `à` (low), `á` (high), `ǎ` (rising), `a` (omitted or determined via pitch assignment rules). Readings of Sinographs are not capitalized unless it would be contextually beneficial for clarity. I deviate from Sejong (1446) in two minor ways: ᅟᆢ, ᅟᆖ is used for `yo`, `yu` instead of ᅟᆝ, ᅟᆜ unless quoting verbatim. Tone dots are placed above, instead of to the left of, Hangul blocks[^2].
 
 [^1]: Martin, S. E. (1992). A Reference Grammar of Korean. Singapore: Tuttle Publishing.
-[^2]: For instance, 나랏〮말〯ᄊᆞ미〮. This is an adaptation for horizontal writing inspired by [Chocassye](https://find.됬.xyz/).
+[^2]: For instance, 나랏〮말〯ᄊᆞ미〮. This is an adaptation for horizontal writing inspired by [Chocassye](https://find.됬.xyz/). This is a purely visual embellishment, thus copying-and-pasting will yield normal Unicode tone dots.
 
 References are given roughly following APA 7, though deviations are made for simplicity. Most notably, titles are not italicized. Which copies were used of historical texts are not explicitly cited unless relavent. Titles of historical texts may be given in abbreviations; below is a nonexaustive list of such abbreviations.
 
