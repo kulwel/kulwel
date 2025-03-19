@@ -80,33 +80,33 @@ Special thanks to the [East Asian Linguistics](https://discord.gg/A36Y6mSrTr)  D
 
 {% capture bib %}
 
-경남방언연구보존회. 2017. ｢경남방언 사전｣ 경남: 경상남도.
+경남방언연구보존회 (2017). 경남방언 사전. 경남: 경상남도.
 
-고경재. 2022. “12~15세기 국어 모음체계 연구ㅡ모음추이 이론의 재확립ㅡ.” 고려대학교 박사학위논문.
+고경재 (2022). 12~15세기 국어 모음체계 연구ㅡ모음추이 이론의 재확립ㅡ (박사학위논문). 고려대학교.
 
-구본관. 1999. “축소 접미사에 대한 연구.” ｢국어학｣ (국어학회) 34. 109-141.
+구본관 (1999). 축소 접미사에 대한 연구. 국어학, (국어학회), 34, 109-141.
 
-김이협. 1981. ｢평북방언사전｣ 경기: 한국정신문화연구원.
+김이협 (1981). 평북방언사전. 경기: 한국정신문화연구원.
 
-문세영. 1940. ｢수정 증보 조선어사전｣ 서울: 조선어사전간행회.
+문세영 (1940). 수정 증보 조선어사전. 서울: 조선어사전간행회.
 
-서보월 외. 2019. ｢경북 북부지역 방언사전｣ 서울: 한국문화사.
+서보월 외 (2019). 경북 북부지역 방언사전. 서울: 한국문화사.
 
-소강춘 외. 2021. ｢전라북도 방언사전｣ 전북: 신아출판사.
+소강춘 외 (2021). 전라북도 방언사전. 전북: 신아출판사.
 
-이기갑 외. 1997. ｢전남방언사전｣ 전남: 전라남도.
+이기갑 외 (1997). 전남방언사전. 전남: 전라남도.
 
-제주문화예술제단. 2009. ｢개정 증보 제주어사전｣ 제주: 제주특별자치도.
+제주문화예술재단 (2009). 개정 증보 제주어사전. 제주: 제주특별자치도.
 
-최영선. 2015. “鷄林類事의 음운론적 연구.” 전남대학교 박사학위논문.
+최영선 (2015). 鷄林類事의 음운론적 연구 (박사학위논문). 전남대학교.
 
-Norman, J. 2013. A Comprehensive Manchu-English Dictionary. Massachusetts: Harvard University Asia Center.
+Norman, J. (2013). A comprehensive Manchu-English dictionary. Massachusetts: Harvard University Asia Center.
 
-Ryzmski, C. et al. 2020. The Database of Cross-Linguistic Colexifications, Reproducible Analysis of Cross-Linguistic Polysemies. Scientific Data 7, Article 13. 
+Ryzmski, C. et al. (2020). The database of cross-linguistic colexifications, reproducible analysis of cross-linguistic polysemies. Scientific Data, 7, Article 13.
 
-胡增益. 1994. ｢新满汉大词典｣ 新疆: 新疆人民出版社.
+胡增益 (1994). 新满汉大词典. 新疆: 新疆人民出版社.
 
-Санжеев, Г.Д. & Орловская, М.Н. & Шевернина, З.В. 2016. Этимологический словарь монгольских языков. Москва: Институт востоковедения Российской Академии Наук.
+Санжеев, Г. Д., Орловская, М. Н., & Шевернина, З. В. (2016). Этимологический словарь монгольских языков. Москва: Институт востоковедения Российской Академии Наук.
 
 {% endcapture %}
 {% include references.html %}

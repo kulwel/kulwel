@@ -35,7 +35,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 
-permalink: /posts/:title.html
+permalink: /posts/:title/
 markdown: Pandoc
 
 # Exclude from processing.
