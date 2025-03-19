@@ -111,6 +111,15 @@ hr {
     }
 }
 
+.autocol {
+    container-type: inline-size; // Make it a container
+    column-count: 1; // Default to single column
+
+    @media (min-width: 700px) {
+      column-count: 2; // Change to 2 columns when width > 700px
+    }
+}
+
 .post-content {
     position: relative;
 }
