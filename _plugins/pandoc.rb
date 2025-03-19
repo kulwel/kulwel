@@ -9,7 +9,7 @@ class Jekyll::Converters::Markdown::Pandoc
                 raise "Download failed! Aborting."
             end
             puts "Extracting tarball..."
-            if system("tar xvzf _vendor/pandoc.tar.gz --strip-components 2 -C _vendor/pandoc/")
+            if system("tar xvzf _vendor/pandoc.tar.gz --strip-components 1 -C _vendor/pandoc/")
                 puts "success"
             else
                 raise "Extraction failed! Aborting."
