@@ -1,0 +1,1 @@
+Pandoc will be installed into this directory for Cloudflare builds.
