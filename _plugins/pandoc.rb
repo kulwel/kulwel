@@ -2,10 +2,21 @@ class Jekyll::Converters::Markdown::Pandoc
     def initialize(config)
         require "pandoc-ruby"
         if ENV["CF_PAGES"]
-            system("wget -O _vendor/pandoc.tar.gz \"https://github.com/jgm/pandoc/releases/download/3.6.4/pandoc-3.6.4-linux-amd64.tar.gz\" && tar xvzf _vendor/pandoc.tar.gz --strip-components 2 -C _vendor/pandoc/")
+            puts "Downloading Pandoc binaries..."
+            if system("wget -O _vendor/pandoc.tar.gz \"https://github.com/jgm/pandoc/releases/download/3.6.4/pandoc-3.6.4-linux-amd64.tar.gz\"")
+                puts "success"
+            else 
+                puts "Download failed! Aborting."
+            end
+            puts "Extracting tarball..."
+            if system("tar xvzf _vendor/pandoc.tar.gz --strip-components 2 -C _vendor/pandoc/")
+                puts "success"
+            else
+                raise "Extraction failed! Aborting."
+            end
             pandoc_bin = File.expand_path("./_vendor/pandoc/bin/pandoc")
             PandocRuby.pandoc_path = pandoc_bin
-            puts "Using bundled Pandoc binary: #{pandoc_bin}"
+            puts "Using custom Pandoc binary: #{pandoc_bin}"
         end
     end
 
