@@ -28,12 +28,6 @@ author: 月乙兎瓊
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-titles-from-headings
-
-titles_from_headings:
-  enabled:     true
-  strip_title: true
-  collections: true
 
 permalink: /posts/:title/
 markdown: Pandoc
