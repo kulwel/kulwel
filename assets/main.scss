@@ -120,6 +120,11 @@ hr {
     }
 }
 
+.post-meta > *:not(:last-child)::after {
+    content: " • ";
+    pointer-events: none;
+}
+
 .post-content {
     position: relative;
 }
