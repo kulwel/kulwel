@@ -23,6 +23,10 @@ h1, h2, h3 {
 
 .post-title {
     line-height: 1.1;
+
+    span:lang("ko") {
+        font-size: 0.9em;
+    }
 }
 
 a, a:visited {
@@ -112,11 +116,10 @@ hr {
 }
 
 .autocol {
-    container-type: inline-size; // Make it a container
-    column-count: 1; // Default to single column
+    column-count: 1;
 
     @media (min-width: 700px) {
-      column-count: 2; // Change to 2 columns when width > 700px
+        column-count: 2;
     }
 }
 
