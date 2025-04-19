@@ -19,9 +19,9 @@ module TitlesFromHeadings
           next
         end
 
-        if match = document.content.match(/\A\s*##\s+(.+)\n([\s\S]*)/)
-          document.data["subtitle"], document.content = match.captures
-        end
+        # if match = document.content.match(/\A\s*##\s+(.+)\n([\s\S]*)/)
+        #   document.data["subtitle"], document.content = match.captures
+        # end
       end
     end
   end
