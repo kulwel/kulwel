@@ -15,6 +15,7 @@ $base-font-size:   21px;
 
 html {
     scrollbar-gutter: stable;
+    text-align: justify;
 }
 
 h1, h2, h3 {
@@ -53,6 +54,18 @@ code {
     padding: 0 !important;
 }
 
+pre {
+    background: none;
+    border: none;
+    border-left: 5px solid rgb(66.25, 66.25, 66.25);
+    border-radius: 0;
+    font-family: inherit;
+
+    code {
+        font-style: normal !important;
+    }
+}
+
 mark {
     background-color: transparent !important; /* remove highlight background */
     padding: 0 !important;
@@ -86,6 +99,41 @@ hr {
         text-align: center;
         margin-bottom: 15px;
         font-size: 1.25em;
+    }
+}
+
+li[data-num]::marker {
+    content: attr(data-num) ". ";
+}
+
+@counter-style knt {
+    system: alphabetic;
+    symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
+    suffix: ". ";
+}  
+
+ol[type=a]:lang("ko") {
+    list-style-type: knt;
+}
+
+table {
+    table-layout: fixed;
+    border: none;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+    th {
+        background: none;
+        border: none;
+        border-bottom: 1px solid black;
+    }
+
+    tr {
+        background: none !important;
+    }
+
+    td {
+        border: none;
     }
 }
 
