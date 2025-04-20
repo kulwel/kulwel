@@ -23,11 +23,9 @@ class Jekyll::Converters::Markdown::Pandoc
   end
 
   def convert(content)
-    content = content.gsub(/\u{302E}/,
-                           '<span class="tone" data-tone="1"><span class="tone-mark">\\0</span></span>')
-    content = content.gsub(/\u{302F}/,
-                           '<span class="tone" data-tone="2"><span class="tone-mark">\\0</span></span>')
-    PandocRuby.new(content,
-                   from: 'markdown-smart+mark-subscript+hard_line_breaks+lists_without_preceding_blankline').to_html
+    html = PandocRuby.new(content, from: 'markdown-smart+mark-subscript+hard_line_breaks+lists_without_preceding_blankline').to_html
+    html
+      .gsub(/\u{302E}/, '<span class="tone" data-tone="1"><span class="tone-mark">\\0</span></span>')
+      .gsub(/\u{302F}/, '<span class="tone" data-tone="2"><span class="tone-mark">\\0</span></span>')
   end
 end
