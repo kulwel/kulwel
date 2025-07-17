@@ -66,6 +66,16 @@ pre {
     }
 }
 
+.prelike {
+    padding: 8px 12px;
+    border-left: 5px solid rgb(66.25, 66.25, 66.25);
+    margin-bottom: 15px;
+
+    & > p {
+        margin: 0;
+    }
+}
+
 mark {
     background-color: transparent !important; /* remove highlight background */
     padding: 0 !important;
@@ -110,10 +120,21 @@ li[data-num]::marker {
     system: alphabetic;
     symbols: "ㄱ" "ㄴ" "ㄷ" "ㄹ" "ㅁ" "ㅂ" "ㅅ" "ㅇ" "ㅈ" "ㅊ" "ㅋ" "ㅌ" "ㅍ" "ㅎ";
     suffix: ". ";
-}  
+}
 
 ol[type=a]:lang("ko") {
     list-style-type: knt;
+}
+
+@counter-style paren-decimal {
+    system: numeric;
+    symbols: "0" "1" "2" "3" "4" "5" "6" "7" "8" "9";
+    prefix: "(";
+    suffix: ") ";
+}
+
+blockquote > ol {
+    list-style-type: paren-decimal;
 }
 
 table {
